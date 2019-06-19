@@ -1,4 +1,4 @@
-# NewProject1
+# NgExample (NewProject1) testing GIT commands with sample Angular 7 file
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
